@@ -1,1 +1,1 @@
-* My favourite animal is a panda
+# My favourite animal is a panda
