@@ -1,1 +1,3 @@
-This could be a merge conflict.
+
+YES This IS a merge conflict.
+
