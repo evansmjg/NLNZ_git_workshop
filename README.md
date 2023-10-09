@@ -1,2 +1,2 @@
-# NLNZ_git_workshop
-this is just a test
+### NLNZ_git_workshop
+Welcome to my github repo.
